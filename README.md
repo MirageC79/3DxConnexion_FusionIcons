@@ -5,7 +5,7 @@
 ## 1 - Create new Icons for your radial menus
 I have prepared a set of Icons that I use on a regular basis.  If the Icons you want are not in there, feel free to create your own.  They have to be .png files of 24x24 pixels max.
 
-- Download 3DxIcons.zip from this repository to your computer.
+- Download [3DxIcons.zip](https://github.com/MirageC79/3DxConnexion_FusionIcons/raw/master/3DxIcons.zip) from this repository to your computer.
 - Extract the content (new set of icons) to: "C:\Program Files\3Dconnexion\3DxWare\3DxWinCore64\Cfg\Images\3DxService"
 
 
@@ -13,7 +13,7 @@ I have prepared a set of Icons that I use on a regular basis.  If the Icons you 
 You will need to modify the following .xml file to make the link between the added icon and a function name in fusion. 
 I also prepared for you a modified .xml with linking the icons from previous step to function name.
 
-- Dowload Fusion360.xml from this repository to your computer.
+- Dowload [Fusion360.xml](https://github.com/MirageC79/3DxConnexion_FusionIcons/blob/master/Fusion360.xml) from this repository to your computer.
 - On your computer at this location: C:\Program Files\3Dconnexion\3DxWare\3DxWinCore64\Cfg, make a copy of the existing Fusion360.xml file to somewhere safe in case something goes wrong.
 - Copy and paste the new Fusion360.xml to that location and overwrite the existing one. 
 

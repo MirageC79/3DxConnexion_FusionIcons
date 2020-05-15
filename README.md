@@ -42,7 +42,7 @@ From your 3DConnexion application, ensure the focus is on Fusion360 (the app wil
 
 
 ## 5 - Create New Radial Menus
-You can now create specific radial menu for each of your device button.  I prefer 8 sections radial menus as they offer more shortcut place holders.
+You can now create specific radial menu for each of your device button.  You should see the macros you created appear in the list with their respective icon.  
 ![alt text](https://github.com/MirageC79/3DxConnexion_FusionIcons/blob/master/3dxappRadialMenu.png?raw=true)
 ![alt text](https://github.com/MirageC79/3DxConnexion_FusionIcons/blob/master/3dxappRadialMenuMAcro.png?raw=true)
 
